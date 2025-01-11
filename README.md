@@ -15,6 +15,15 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UsminDhakal&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+| Star Geographic Distribution | Star History |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Company Affiliation | Lines of Code Changes |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+
 ## 🚀 GitHub Stats & Most Used Languages
 
 <div align="center">
