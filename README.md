@@ -10,20 +10,22 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - 👯 I’m open to collaborate on **full-stack web development**.
 - 📫 Reach me via email: **usmin.dhakal@example.com**
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats & Most Used Language
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&theme=radical)
+  </div>
+  <div>
+    ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=dark&langs_count=5)
+  </div>
+</div>
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript, PHP, HTML, CSS
 - **Frameworks**: Django, React, Laravel
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, AWS, VSCode
-- 
-## 🧑‍💻 My Most Used Language
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=dark)
-
 
 ## 🌟 Featured Projects
 
