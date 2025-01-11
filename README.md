@@ -34,7 +34,8 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
     <div style="flex: 1; min-width: 300px;">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
     </div>
-    <div style="min-width: 500px;">
+    <div style="flex:2; min-width: 300px;">
+	  <table style="width: 100%; border-collapse: collapse;">
         <tr>
             <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Backend:</td>
             <td>
