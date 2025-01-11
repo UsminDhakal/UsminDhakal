@@ -62,12 +62,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
             <img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
         </td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated Testing:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=pytest" alt="Pytest"/>
-        </td>
-    </tr>
+ 
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td>
