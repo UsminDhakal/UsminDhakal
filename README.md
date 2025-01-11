@@ -30,7 +30,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 
 ## 🚀 GitHub Stats & Most Used Languages
 
-<div align="center">
+<div style="display:flex; justify-content:space-between">
     <table>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Backend:</td>
@@ -82,20 +82,13 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
             </td>
         </tr>
     </table>
+
+	<div align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
+	</div>
+
 </div>
 
-<div align="center">
-    <table style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-        <tr>
-            <td style="padding-right: 20px;">
-                <img src="https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Usmin's GitHub Stats" height="180em" />
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
-            </td>
-        </tr>
-    </table>
-</div>
 
 ---
 
