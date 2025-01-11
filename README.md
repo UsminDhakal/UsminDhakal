@@ -19,10 +19,11 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - **Frameworks**: Django, React, Laravel
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, AWS, VSCode
-
+- 
 ## 🧑‍💻 My Most Used Language
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=dark)
+
 
 ## 🌟 Featured Projects
 
