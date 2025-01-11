@@ -10,22 +10,24 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - 👯 I’m open to collaborate on **full-stack web development**.
 - 📫 Reach me via email: **usmin.dhakal@example.com**
 
-## 🚀 GitHub Stats & Most Used Language
+---
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&theme=radical)
-  </div>
-  <div>
-    ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=dark&langs_count=5)
-  </div>
+## 🚀 GitHub Stats & Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&theme=radical" alt="Usmin's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
 </div>
+
+---
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript, PHP, HTML, CSS
 - **Frameworks**: Django, React, Laravel
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, AWS, VSCode
+
+---
 
 ## 🌟 Featured Projects
 
@@ -41,6 +43,8 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - **Tech Stack**: Python, Django
 - **Description**: A Django-based blog app where users can register, log in, and manage their blogs.
 
+---
+
 ## 📫 Contact Me
-- Email: usmindhakal123456789@gmail.com
-- LinkedIn: [Usmin Dhakal](https://www.linkedin.com/in/usmin-dhakal-011120282/)
+- **Email**: usmindhakal123456789@gmail.com
+- **LinkedIn**: [Usmin Dhakal](https://www.linkedin.com/in/usmin-dhakal-011120282/)
