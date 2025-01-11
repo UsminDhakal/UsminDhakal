@@ -61,12 +61,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
             <img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
         </td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated Testing:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=pytest" alt="Pytest"/>
-        </td>
-    </tr>
+ 
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td>
@@ -81,23 +76,6 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
         </td>
     </tr>
 </table>
-
-
-
-
-## 🌟 Featured Projects
-
-### [Rock-paper-scissor-game](https://github.com/UsminDhakal/Rock-paper-scissor-game)
-- **Tech Stack**: Python
-- **Description**: A simple game implemented in Python where the user can play Rock, Paper, Scissors against the computer.
-
-### [Obys-agency](https://github.com/UsminDhakal/Obys-agency)
-- **Tech Stack**: CSS, HTML
-- **Description**: A clone of the Obys Agency website built using CSS and HTML.
-
-### [Django Blog App](https://github.com/UsminDhakal/Django-Blog-App)
-- **Tech Stack**: Python, Django
-- **Description**: A Django-based blog app where users can register, log in, and manage their blogs.
 
 ---
 
