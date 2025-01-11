@@ -83,12 +83,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
         </tr>
     </table>
 
-    <div>
-    	
-## 📫 Contact Me
-- **Email**: usmindhakal123456789@gmail.com
-- **LinkedIn**: [Usmin Dhakal](https://www.linkedin.com/in/usmin-dhakal-011120282/)
-    </div>
+
 
 </div>
 
