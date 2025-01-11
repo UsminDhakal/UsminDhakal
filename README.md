@@ -83,8 +83,8 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
         </tr>
     </table>
 
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
+    <div>
+    	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
     </div>
 </div>
 
