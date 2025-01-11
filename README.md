@@ -6,9 +6,9 @@
 Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in **Python**, **Django**, **JavaScript**, and **Laravel**. My aim is to build impactful projects and contribute to the open-source community.
 
 - 🔭 Currently working on [My College Website](https://github.com/UsminDhakal/My_College_Website)
-- 🌱 I’m learning **Django**, **React**, and **DevOps**.
+- 🌱 I’m learning **Django**, **React**,**Php**,**Laravel**,  and **DevOps**.
 - 👯 I’m open to collaborate on **full-stack web development**.
-- 📫 Reach me via email: **usmin.dhakal@example.com**
+- 📫 Reach me via email: **usmindhakal123456789@gmail.com**
 
 ---
 
