@@ -30,7 +30,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 
 ## 🚀 GitHub Stats & Most Used Languages
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">]
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <div style="flex: 2; min-width: 300px;">
         <table style="width: 100%; border-collapse: collapse;">
             <tr>
