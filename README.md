@@ -20,6 +20,10 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, AWS, VSCode
 
+## 🧑‍💻 My Most Used Language
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact)
+
 ## 🌟 Featured Projects
 
 ### [Rock-paper-scissor-game](https://github.com/UsminDhakal/Rock-paper-scissor-game)
@@ -35,5 +39,5 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - **Description**: A Django-based blog app where users can register, log in, and manage their blogs.
 
 ## 📫 Contact Me
-- Email: usmin.dhakal@example.com
+- Email: usmindhakal123456789@gmail.com
 - LinkedIn: [Usmin Dhakal](https://www.linkedin.com/in/usmin-dhakal-011120282/)
