@@ -31,6 +31,10 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 ## 🚀 GitHub Stats & Most Used Languages
 
 <div style="display:flex; justify-content:space-between; flex-wrap: wrap;">
+	<div>
+		
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UsminDhakal&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	</div>
     <table>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Backend:</td>
@@ -86,11 +90,6 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 
 
 </div>
-
-
-
----
-
 
 
 ---
