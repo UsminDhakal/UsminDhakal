@@ -30,10 +30,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 
 ## 🚀 GitHub Stats & Most Used Languages
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
-    </div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">]
     <div style="flex: 2; min-width: 300px;">
         <table style="width: 100%; border-collapse: collapse;">
             <tr>
