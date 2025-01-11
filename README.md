@@ -1,12 +1,12 @@
 # Welcome to My GitHub Profile 👨‍💻
-
+<p align = "left">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 ![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHIA_G8_SsnTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736602756089?e=1741824000&v=beta&t=QySu6I6sbcKUThYbvuOHVNEfL9Y7suXhiBJ2SEcESCs)
 
 ## About Me
 Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in **Python**, **Django**, **JavaScript**, and **Laravel**. My aim is to build impactful projects and contribute to the open-source community.
-<p align = "left">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 
 - 🔭 Currently working on [My College Website](https://github.com/UsminDhakal/My_College_Website)
 - 🌱 I’m learning **Django**, **React**,**Php**,**Laravel**,  and **DevOps**.
