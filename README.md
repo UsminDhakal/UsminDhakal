@@ -31,62 +31,74 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 ## 🚀 GitHub Stats & Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&theme=radical" alt="Usmin's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
+    <table>
+        <tr>
+            <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Backend:</td>
+            <td>
+                <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
+                <img height="40" src="https://skillicons.dev/icons?i=django" alt="Django" />
+                <img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP" />
+                <img height="40" src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+                <img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+                <img height="40" src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Frontend:</td>
+            <td>
+                <img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
+                <img height="40" src="https://skillicons.dev/icons?i=css" alt="CSS" />
+                <img height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+                <img height="40" src="https://skillicons.dev/icons?i=react" alt="React" />
+                <img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Database:</td>
+            <td>
+                <img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+                <img height="40" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">DevOps:</td>
+            <td>
+                <img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+                <img height="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
+                <img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">IDEs:</td>
+            <td>
+                <img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Operating Systems:</td>
+            <td>
+                <img height="40" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+                <img height="40" src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+        <tr>
+            <td style="padding-right: 20px;">
+                <img src="https://github-readme-stats.vercel.app/api?username=UsminDhakal&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="Usmin's GitHub Stats" height="180em" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsminDhakal&layout=compact&theme=radical&langs_count=6" alt="Usmin's Most Used Languages" height="180em" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 ---
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Backend:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
-            <img height="40" src="https://skillicons.dev/icons?i=django" alt="Django" />
-            <img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP" />
-            <img height="40" src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
-            <img height="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-            <img height="40" src="https://skillicons.dev/icons?i=express" alt="Express.js" />
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Frontend:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
-            <img height="40" src="https://skillicons.dev/icons?i=css" alt="CSS" />
-            <img height="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-            <img height="40" src="https://skillicons.dev/icons?i=react" alt="React" />
-            <img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Database:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-            <img height="40" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">DevOps:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-            <img height="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
-            <img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">IDEs:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; border: none; vertical-align: middle;">Operating Systems:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-            <img height="40" src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-        </td>
-    </tr>
-</table>
+
 
 
 ---
