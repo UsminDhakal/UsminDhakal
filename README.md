@@ -3,7 +3,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=UsminDhakal&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHIA_G8_SsnTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736602756089?e=1741824000&v=beta&t=QySu6I6sbcKUThYbvuOHVNEfL9Y7suXhiBJ2SEcESCs)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHIA_G8_SsnTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736602756089?e=1747267200&v=beta&t=oFVWiY2GzUzHqG_0LPIR_rsFAKc1tinLklQskF6SHAY)
 
 ## About Me
 Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in **Python**, **Django**, **JavaScript**, and **Laravel**. My aim is to build impactful projects and contribute to the open-source community.
