@@ -13,9 +13,7 @@ Hello, I'm **Usmin Dhakal**, a passionate developer from Nepal. I specialize in 
 - 📫 Reach me via email: **usmindhakal123456789@gmail.com**
 
 ---
-<h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UsminDhakal&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
